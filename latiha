@@ -1,0 +1,11 @@
+[33mcommit 16d0027c4b27e7250bd659f14e3c1da682de5e51[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sapadi <saptoadiyanto291@gmail.com>
+Date:   Fri Jun 16 15:41:36 2023 +0700
+
+    Project Setup
+
+[33mcommit 6b2202edd1f922094752a4605929f736aa436b03[m
+Author: Sapadi <saptoadiyanto291@gmail.com>
+Date:   Fri Jun 16 15:14:09 2023 +0700
+
+    Initialize project using Create React App

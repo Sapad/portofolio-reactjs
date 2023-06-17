@@ -1,10 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import Navbar from './Component/Navbar';
+
 
 function App() {
   return (
-   <h2>latihan
-   </h2>
+    <Navbar/>
   );
 }
 
